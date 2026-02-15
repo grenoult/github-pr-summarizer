@@ -1,0 +1,12 @@
+{
+  "name": "pr-summarizer",
+  "version": "1.0.0",
+  "description": "GitHub Action to summarize pull requests using GitHub Models (FREE)",
+  "main": "summarize-pr.js",
+  "scripts": {
+    "start": "node summarize-pr.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.2"
+  }
+}
