@@ -11,6 +11,10 @@ Automatically generate AI-powered summaries for your pull requests using **GitHu
 - 🎯 Highlights key changes, impact, and potential concerns
 - ⚡ Powered by GPT-4o-mini via GitHub's AI infrastructure
 
+## Demo
+
+![Demo on a pull request showing the generated PR summary](demo.png)
+
 ## Setup Instructions
 
 ### 1. Add to Your Repository
